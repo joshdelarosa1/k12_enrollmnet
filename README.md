@@ -67,4 +67,4 @@ Please review the **Roadmap** tab within the live application for the most up-to
 
 ---
 
-*Maintained by the Open Source Education Data Project.*
+*Maintained by the Josh DeLaRosa.*
